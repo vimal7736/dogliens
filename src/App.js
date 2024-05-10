@@ -1,10 +1,9 @@
 import React from 'react'
-
+import Navbar from "./component/Navbar"
 const App = () => {
   return (
-    <div>
-      <h1>vimal</h1>
-      <h1>Aishu</h1>
+    <div >
+      <Navbar/>
     </div>
   )
 }
