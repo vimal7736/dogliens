@@ -135,3 +135,9 @@ body{
 
 
 }
+@media only screen and (max-width: 600px) {
+  #textblock-container {
+    width: 90%; /* Adjust width as needed */
+    margin-top: 20px; /* Add margin to push it closer to the above content */
+  }
+}

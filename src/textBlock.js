@@ -6,18 +6,62 @@ function TextBlock() {
             <div id="textblock-container">
                 <h1 id="textblock-title">Dogliens   </h1>
                 <p id="textblock-content">
-                May 9 2024<br/><br/>
-              
-                In the heart of Coimbatore, amidst the vibrant colors of life, a tale of love blossomed, a story woven with threads of resilience and unwavering devotion. Aishu and Vimlu, two souls destined to intertwine in the grand tapestry of fate, found solace in each other's presence, their love a beacon of light in the darkest of times.
+                    May 9 2024<br />
 
-Their journey commenced on a crisp May morning, the air infused with the promise of new beginnings. Hand in hand, they ventured into the lush landscapes of Ooty, where nature whispered secrets of love amid the misty hills and fragrant meadows. Despite the disapproval of friends, who failed to recognize the depth of their connection, Aishu and Vimlu stood tall, their bond fortified by unwavering loyalty and mutual respect.
+                    In Coimbatore's heart, where colors swirl,
+                    A tale of love unfurled, in life's grand swirl.
+                    Aishu and Vimlu, fate's intertwined decree,
+                    Found solace and love, in unity free.</p>
+                <br />
+                <p id="textblock-content">
+                    May 9 2024<br />
 
-In the face of adversity, they remained steadfast, their love transcending all obstacles. Through trials and tribulations, they emerged stronger, their hearts beating in synchrony, an unbreakable rhythm of devotion. What began as a friendship rooted in camaraderie and shared laughter blossomed into a love so profound, it defied all logic and reason.
+                    They walked hand in hand, on May's fresh morn,
+                    Ooty's whispers of love, where they were born.
+                    Friend's disapproval, their love did not sway,
+                    Their bond stood strong, come what may.</p>
+                <br />
+                <p id="textblock-content">
+                    May 9 2024<br />
 
-With each passing day, their love grew deeper, like the roots of an ancient tree firmly anchored in the soil of trust and understanding. Aishu became Vimlu's pillar of strength, her unwavering support guiding him through life's tumultuous storms. Likewise, Vimlu stood by her side, a beacon of hope in the darkest of nights, his love a sanctuary where she found solace and serenity.
+                    Through trials they stood, with hearts aligned,
+                    Their love a beacon, against fate's wind entwined.
+                    From friendship's laughter, love did bloom,
+                    Deepening like roots, in nature's loom.</p>
+                <br />
+                <p id="textblock-content">
+                    May 9 2024<br />
 
-Their love story was not just a tale of romance, but a testament to the resilience of the human spirit. It was a reminder that true love knows no bounds, transcending the barriers of time and space. Aishu and Vimlu, bound by a love so pure and profound, became the embodiment of hope, inspiring all who crossed their path to believe in the power of love's enduring embrace
-                </p>
+                    Aishu's strength, Vimlu's guiding light,
+                    Through storms of life, they held tight.
+                    Their tale not just of love, but of human might,
+                    A reminder that love's embrace, shines bright</p>
+                <br />
+                <p id="textblock-content">
+                    May 9 2024<br />
+
+                    Aishu and Vimlu, in love's enduring grace,
+                    Inspire all to believe, in love's boundless space.
+                    Their story a testament, to love's lasting trace,
+                    In their embrace, hope finds its place.</p>
+                <br />
+                <p id="textblock-content">
+                    May 9 2024<br />
+
+                    Vimal and Aishu began their love story,
+                    From May 9, 2024, their journey into light.
+                    In the enchanting love, memories always thrived,
+                    As love concludes, they unite in heavenly stride..</p>
+                <br />
+                <p id="textblock-content">
+                    May 9 2024<br />
+
+                    Aishu and Vimal's love.
+                    Even in death, it continues strong,
+                    In heaven's realm, it'll belong.</p>
+                <br />
+                
+                <br />
             </div>
         </div>
     );
