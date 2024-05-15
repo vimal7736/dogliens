@@ -8,18 +8,18 @@ function TextBlock() {
                 <p id="textblock-content">
                     May 9 2024<br />
 
-                    In Coimbatore's heart, where colors swirl,
-                    A tale of love unfurled, in life's grand swirl.
-                    Aishu and Vimlu, fate's intertwined decree,
+                    A Dindigul , Calicut love , where colors swirl,
+                    A tale of love proceeds.
+                    Aishu and Vimlu, fate's intertwined,
                     Found solace and love, in unity free.</p>
                 <br />
                 <p id="textblock-content">
                     May 9 2024<br />
 
                     They walked hand in hand, on May's fresh morn,
-                    Ooty's whispers of love, where they were born.
+                    Ooty's whispers of love, where they were found their love.
                     Friend's disapproval, their love did not sway,
-                    Their bond stood strong, come what may.</p>
+                    Their bond stood strong and warm.</p>
                 <br />
                 <p id="textblock-content">
                     May 9 2024<br />
@@ -27,12 +27,12 @@ function TextBlock() {
                     Through trials they stood, with hearts aligned,
                     Their love a beacon, against fate's wind entwined.
                     From friendship's laughter, love did bloom,
-                    Deepening like roots, in nature's loom.</p>
+                    Deepening like roots, in nature's bed, .</p>
                 <br />
                 <p id="textblock-content">
                     May 9 2024<br />
 
-                    Aishu's strength, Vimlu's guiding light,
+                    Aishu's Lights vimal life,
                     Through storms of life, they held tight.
                     Their tale not just of love, but of human might,
                     A reminder that love's embrace, shines bright</p>
@@ -42,8 +42,7 @@ function TextBlock() {
 
                     Aishu and Vimlu, in love's enduring grace,
                     Inspire all to believe, in love's boundless space.
-                    Their story a testament, to love's lasting trace,
-                    In their embrace, hope finds its place.</p>
+                    </p>
                 <br />
                 <p id="textblock-content">
                     May 9 2024<br />
@@ -58,7 +57,7 @@ function TextBlock() {
 
                     Aishu and Vimal's love.
                     Even in death, it continues strong,
-                    In heaven's realm, it'll belong.</p>
+                    In heaven's realm, it'll stay strong.</p>
                 <br />
                 
                 <br />

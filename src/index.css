@@ -19,7 +19,7 @@ code {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgb(44, 14, 14); /* Change scrollbar thumb color */
+  background-color: rgb(8, 8, 8); /* Change scrollbar thumb color */
   border-radius: 10px; /* Optional: rounder corners */
 }
 
