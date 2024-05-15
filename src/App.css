@@ -84,6 +84,7 @@ body{
   .dogliens {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 100px; /* Adjust font size for smaller screens */
+    margin-top: -20px;
   }
   
   /* Add any additional styles for small screens here */
