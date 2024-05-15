@@ -61,8 +61,8 @@ body{
 
 .animation_layer {
   background-position: bottom center;
-  background-size: auto 1038px;
-  background-repeat: repeat-x;
+  background-size: auto 1100px;
+  /* background-repeat: repeat-x; */
   width: 100%;
   position: absolute;
 }
