@@ -83,7 +83,7 @@ body{
 @media only screen and (max-width: 600px) {
   .dogliens {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 50px; /* Adjust font size for smaller screens */
+    font-size: 100px; /* Adjust font size for smaller screens */
   }
   
   /* Add any additional styles for small screens here */
