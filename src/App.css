@@ -76,6 +76,10 @@ body{
   filter: hue-rotate(800deg);
 
 }
+.dogliens{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+}
 
 #mountain {
   /* background-image: url(./images/mountains.png);  */
@@ -93,13 +97,16 @@ body{
 
 #jungle2 {
   background-image: url(./images/jungle2.png);
-  filter: brightness(0.4);
+  /* filter: brightness(0.4);vimal */
+  filter: hue-rotate(100deg);
+
 }
 
 #jungle3 {
   background-image: url(./images/jungle3.png);
   /* filter: brightness(0.2); */
-  filter: hue-rotate(500deg);
+  filter: brightness(0)
+
 
 
 
@@ -107,7 +114,7 @@ body{
 
 #jungle4 {
   /* background-image: url(./images/logo_land.png); */
-  filter: hue-rotate(150deg);
+  /* filter: hue-rotate(150deg); */
   color: black;
 
 
@@ -115,6 +122,8 @@ body{
 
 #jungle5 {
   background-image: url(./images/jungle5.png);
+  filter: brightness(0.2);
+
 
 }
 
