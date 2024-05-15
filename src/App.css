@@ -1,9 +1,9 @@
 body{
-  background: #121212;
+  background: #000000;
 }
 
 #textblock {
-  background-color: #121212;
+  background-color: #000000;
   height: 100vh;
   overflow: auto;
 }
@@ -141,3 +141,4 @@ body{
     margin-top: 20px; /* Add margin to push it closer to the above content */
   }
 }
+
