@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Style scrollbar for all webpages */
+::-webkit-scrollbar {
+  width: 12px; /* Set the width of the scrollbar */
+  position: -webkit-sticky;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(44, 14, 14); /* Change scrollbar thumb color */
+  border-radius: 10px; /* Optional: rounder corners */
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent; /* Change scrollbar track color */
+}
