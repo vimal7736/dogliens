@@ -1,3 +1,7 @@
+body{
+  background: #121212;
+}
+
 #textblock {
   background-color: #121212;
   height: 100vh;
@@ -69,7 +73,8 @@
 
 #artback {
   background-image: url(./images/aishu.jpg);
-  filter: contrast(139%);
+  filter: hue-rotate(800deg);
+
 }
 
 #mountain {
@@ -82,7 +87,8 @@
 
 #jungle1 {
   background-image: url(./images/jungle1.png);
-  filter: brightness(0.1);
+  filter: brightness(0)
+
 }
 
 #jungle2 {
@@ -93,7 +99,8 @@
 #jungle3 {
   background-image: url(./images/jungle3.png);
   /* filter: brightness(0.2); */
-  filter: brightness(0.2);
+  filter: hue-rotate(500deg);
+
 
 
 }
@@ -107,7 +114,7 @@
 }
 
 #jungle5 {
-  /* background-image: url(./images/jungle5.png); */
+  background-image: url(./images/jungle5.png);
 
 }
 
